@@ -1,0 +1,17 @@
+.imgHolder{margin:34px auto;max-width:1000px;width:100%}
+.grid3 ul.gridList,.grid3 ul.gridList .infoContainer .info ul,.grid3 ul.gridList .infoContainer figcaption ul.source{display:inline-block}
+.grid3 ul.gridList li{float:left;margin-right:50px;margin-bottom:44px;border-radius:4px;width:calc(33% - 30px)}
+.grid3 ul.gridList li:nth-child(3n+3){margin-right:0}
+.grid3 ul.gridList li figure{width:100%;min-height:190px;height:190px}
+.grid3 ul.gridList li figure img{width:100%;height:100%;border-top-left-radius:4px;border-top-right-radius:4px}
+.grid3 ul.gridList .infoContainer figcaption{padding:21px;background-color:#fff;border-bottom:1px solid #dfe2e5;border-left:1px solid #dfe2e5;border-right:1px solid #dfe2e5}
+.grid3 ul.gridList .infoContainer{width:100%}
+.grid3 ul.gridList .infoContainer figcaption h6{font-size:16px;font-weight:600;color:#354052;margin-bottom:3px}
+.grid3 ul.gridList .infoContainer figcaption ul.source li{float:left;font-size:12px;color:#7f8fa4;padding:0 10px;border-right:1px solid #7f8fa4;margin:0;width:auto}
+.grid3 ul.gridList .infoContainer figcaption ul.source li:first-child{padding-left:0}
+.grid3 ul.gridList .infoContainer figcaption ul.source li:last-child{border-right:none}
+.grid3 ul.gridList .infoContainer .info{padding:11px 21px;background-color:#fff;border-bottom-left-radius:4px;border-bottom-right-radius:4px;border-left:1px solid #dfe2e5;border-right:1px solid #dfe2e5;border-bottom:1px solid #dfe2e5}
+.grid3 ul.gridList .infoContainer .info ul{margin-bottom:11px}
+.grid3 ul.gridList .infoContainer .info ul li{font-size:14px;color:#7f8fa4;margin-right:14px;margin-bottom:0;width:auto}
+.grid3 ul.gridList .infoContainer .info em{font-size:14px;color:#354052;font-weight:600;display:block;margin-bottom:4px;font-style:normal}
+.grid3 ul.gridList .infoContainer .info p{font-size:12px}

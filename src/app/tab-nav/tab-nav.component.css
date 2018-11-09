@@ -1,0 +1,15 @@
+.tabNavg .FL ul li a,.tabNavg .sortItem ul li{text-transform:capitalize;padding:23px 10px 22px}
+.tabNavg{border-bottom:1px solid rgba(127,143,164,.2)}
+.tabNavg .FL{margin-left:60px;height:64px}
+.tabNavg .FL ul{display:inline-block}
+.tabNavg .FL ul li{float:left;margin:0 10px}
+.tabNavg .FL ul li a{font-size:16px;font-weight:400;font-style:normal;font-stretch:normal;line-height:normal;letter-spacing:normal;color:#7f8fa4;display:block}
+.tabNavg .FL ul li a.active{border-bottom:1px solid #2da1f8;color:#354052;font-weight:600}
+.tabNavg .sortItem{margin-right:312px}
+.tabNavg .sortItem ul{display:inline-block}
+.tabNavg .sortItem ul li{float:right}
+.tabNavg .sortItem ul li.slidecontainer{width:96px}
+.tabNavg .sortItem ul li .slider{width:100%;-webkit-appearance:none;height:2px;border-radius:5px;background-color:#ced0da;outline:0;opacity:.7;transition:opacity .2s}
+.tabNavg .sortItem ul li .slider:hover{opacity:1}
+.tabNavg .sortItem ul li .slider::-webkit-slider-thumb{-webkit-appearance:none;appearance:none;width:10px;height:10px;border-radius:50%;background-image:linear-gradient(to top,#1991eb,#2da1f8);cursor:pointer}
+.tabNavg .sortItem ul li .slider::-moz-range-thumb{width:10px;height:10px;border-radius:50%;background-image:linear-gradient(to top,#1991eb,#2da1f8);cursor:pointer}
