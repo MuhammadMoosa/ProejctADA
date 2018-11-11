@@ -21,7 +21,8 @@
          /* Start: common to all pages */
          .clearfix::after{content:"";clear:both;display:block;}
          body{background-color:#eff3f6}
-         .container{max-width:1580px;width:100%;margin:auto}
+         .container{;width:100%;margin:auto}
+         .custm-containr{padding:0;overflow:hidden;}
          .FL{float:left;}
          .FR{float:right;}
          h4{font-family: SourceSansPro; font-size: 20px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: normal; letter-spacing: normal; color: #354052;padding:25px 20px}
