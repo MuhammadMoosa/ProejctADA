@@ -1,0 +1,11 @@
+.loginBlock{margin:207px auto auto;width:304px;}
+.loginBlock h4{font-size:24px;color: #7f8fa4;font-weight:600}
+.loginBlock h4 span{color:#0d93ee}
+.loginBlock .singIp{background-color:#fff;padding:18px 30px}
+.loginBlock .singIp p{font-size:24px;color:#354052;margin-bottom:20px;text-transform:capitalize}
+.loginBlock .singIp label{color:#7f8fa4;margin-bottom:7px;font-size:14px;display:block;text-transform:capitalize}
+.loginBlock .singIp input{margin-bottom:12px;border: 1px solid #dfe3e9;border-radius:4px;padding:8px 12px;text-transform:capitalize}
+.loginBlock .singIp em{display:block;color:#78abff;font-size:14px;padding:11px 0 21px;border-bottom:1px solid 
+    #eff3f6;width:100%;text-align:right;text-transform:capitalize;font-style:normal;cursor: pointer;} 
+.loginBlock .singIp .btn.bntSingUp{padding:8px;border-radius:5px;background-color:#249533;color:#fff;margin-top:27px;width:100%;text-transform:capitalize}
+.loginBlock .singIp .btn.btnCreateAcc{margin:20px 0 17px;border:1px solid #dfe3e9;padding:8px;border-radius:5px;background-color:#fff;width:100%;font-size: 14px;color:#354052;text-transform:capitalize}

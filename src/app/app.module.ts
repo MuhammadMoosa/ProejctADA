@@ -9,6 +9,7 @@ import { TabNavComponent } from './tab-nav/tab-nav.component';
 import { SubHeaderComponent } from './sub-header/sub-header.component';
 import { AssingmentComponent } from './assingment/assingment.component';
 import { AppHolderComponent } from './app-holder/app-holder.component';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { AppHolderComponent } from './app-holder/app-holder.component';
     TabNavComponent,
     SubHeaderComponent,
     AssingmentComponent,
-    AppHolderComponent
+    AppHolderComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
