@@ -10,6 +10,7 @@ import { SubHeaderComponent } from './sub-header/sub-header.component';
 import { AssingmentComponent } from './assingment/assingment.component';
 import { AppHolderComponent } from './app-holder/app-holder.component';
 import { LoginComponent } from './login/login.component';
+import { ListViewComponent } from './list-view/list-view.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { LoginComponent } from './login/login.component';
     SubHeaderComponent,
     AssingmentComponent,
     AppHolderComponent,
-    LoginComponent
+    LoginComponent,
+    ListViewComponent
   ],
   imports: [
     BrowserModule,
