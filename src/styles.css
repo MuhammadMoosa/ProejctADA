@@ -16,6 +16,7 @@
          hr{height:1px;border:0;border-top:1px solid #ccc;margin:1em 0}
          input,select{vertical-align:middle}
          a,a:hover,a:active,a:focus{font-size:inherit;font-size:inherit;color:#7f8fa4;text-decoration:none}
+         select { -webkit-appearance: none; -moz-appearance: none; appearance: none; } select::-ms-expand { display: none;}
          ul, ol{list-style:none;}
          /* end : reset css */
          /* Start: common to all pages */
@@ -25,6 +26,7 @@
          .custm-containr{padding:0;overflow:hidden;}
          .FL{float:left;}
          .FR{float:right;}
+         .DN{display:none;}
          h4{font-family: SourceSansPro; font-size: 20px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: normal; letter-spacing: normal; color: #354052;padding:25px 20px}
          .text-info{color:#d35847}
          .text-success{color:#5ad946}
