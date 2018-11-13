@@ -12,6 +12,7 @@ import { AppHolderComponent } from './app-holder/app-holder.component';
 import { LoginComponent } from './login/login.component';
 import { ListViewComponent } from './list-view/list-view.component';
 import { DropdownComponent } from './dropdown/dropdown.component';
+import { ModelPopUpComponent } from './model-pop-up/model-pop-up.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { DropdownComponent } from './dropdown/dropdown.component';
     AppHolderComponent,
     LoginComponent,
     ListViewComponent,
-    DropdownComponent
+    DropdownComponent,
+    ModelPopUpComponent
   ],
   imports: [
     BrowserModule,

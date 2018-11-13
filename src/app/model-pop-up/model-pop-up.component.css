@@ -1,0 +1,15 @@
+.custmPop .modal-header{text-align:center;padding:0px 15px;border:none}
+.custmPop .modal-header .close{margin-top:29px;margin-right:14px}
+.custmPop .modal-title{font-size:20px;font-weight:600;color: #354052;padding:32px 18px;text-transform:capitalize}
+.custmPop .sub-title{font-size:14px;color:#7f8fa4;}
+.custmPop .modal-body{padding:60px 68px 76px}
+.custmPop .modal-body .content{width:100%}
+.custmPop .modal-body .content .col-25{position:relative;width:25%;display:inline-block}
+.custmPop .modal-body .content .col-25 .box{position: absolute;width:40px;height:40px;border-radius:5px;border:1px solid #7f8fa4;top:calc(0% - 20px);left:calc(50% - 20px);background-color:#fff}
+.custmPop .modal-body .content .col-25 .textHolder{border:1px solid #dfe3e9;border-radius:4px;margin:0 5px;padding:12px;min-height:237px}
+.custmPop .modal-body .content .col-25 .textHolder.active{ background-image: linear-gradient(to bottom, #2ea1f8, #1990ea);color:#ffffff}
+.custmPop .modal-body .content .col-25 .textHolder h6{font-size:16px;color: #354052;font-weight:600;padding:24px 0 12px;text-align:center}
+.custmPop .modal-body .content .col-25 .textHolder.active h6,.custmPop .modal-body .content .col-25 .textHolder.active p{color:#fff}
+.custmPop .modal-body .content .col-25 .textHolder p{color: #7f8fa4;font-size:12px;line-height:normal}
+.custmPop .modal-footer{text-align:center;box-shadow: 0 -1px 0 0 #e6eaee; background-color: #f0f3f8;}
+.custmPop .modal-footer .btn-success{padding:10px 50px;border-radius: 4px; border:1px solid #249533; background-image: linear-gradient(to bottom, #39b54a, #34aa44 98%);text-transform:capitalize}
