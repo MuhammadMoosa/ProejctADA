@@ -11,6 +11,7 @@ import { AssingmentComponent } from './assingment/assingment.component';
 import { AppHolderComponent } from './app-holder/app-holder.component';
 import { LoginComponent } from './login/login.component';
 import { ListViewComponent } from './list-view/list-view.component';
+import { DropdownComponent } from './dropdown/dropdown.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { ListViewComponent } from './list-view/list-view.component';
     AssingmentComponent,
     AppHolderComponent,
     LoginComponent,
-    ListViewComponent
+    ListViewComponent,
+    DropdownComponent
   ],
   imports: [
     BrowserModule,
